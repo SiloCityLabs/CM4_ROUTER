@@ -17,6 +17,7 @@ The current design goals are as follows:
 * Under review - Via the PI7C9X2G404SL PCI-e switch IC, provide three lanes of PCI-e Gen 2.0 to host multiple expansion cards. These will be x16 slots, wired x1 electrically, to reduce the need for adapters
 * Under review - Via the PI3PCIE2215 PCI-e mux IC, offer the user the choice between a physical PCI-e slot, or an NVMe slot using one of the downstream PCI-e lanes from the above switch
 * Branch - 5 gigabit Ethernet interface. Possibly via switch or direct pcie IC
+* Branch - Relay switching modem via 12v barrel connector output
 
 # Help Wanted
 
